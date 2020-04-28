@@ -1,6 +1,4 @@
-# Cordova-and-Framework7-Environments-for-Android-App-Development
-
-Instruction: Cordova and Framework7 Environments Setup for Android Apps Development
+# Instruction: Cordova and Framework7 Environments Setup for Android Apps Development
 
 Requirements: Good Internet, Enough Space of C Drive, CMD, Node.js, JAVA JDK & JRE, Android Studio with Android SDK, Android SDK Command Line Tools, Gradle, Cordova, Framework7, Genymotion Emulator
 
