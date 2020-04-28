@@ -31,7 +31,7 @@ Requirements: Good Internet, Enough Space of C Drive, CMD, Node.js, JAVA JDK & J
 
 
 6) Install JAVA JDK and JRE
-- Setup JAVA_HOME at Environment variables (User Variables)
+- Set up JAVA_HOME at Environment variables (User Variables)
 	JAVA_HOME -> C:\Program Files\Java\jdk1.8.0_172
 - Also, set the path (System Variables)
 	Path -> C:\Program Files\Java\jre1.8.0_172\bin
@@ -47,7 +47,7 @@ Requirements: Good Internet, Enough Space of C Drive, CMD, Node.js, JAVA JDK & J
 
 
 9) Set Android SDK location at Environment variables by following rules
-- Setup 'ANDROID_HOME' and 'ANDROID_SDK_ROOT' at Environment variables (User Variable)
+- Set up 'ANDROID_HOME' and 'ANDROID_SDK_ROOT' at Environment variables (User Variable)
 ANDROID_SDK_ROOT -> C:\Users\Rayhan\AppData\Local\Android\Sdk
 	ANDROID_HOME -> C:\Users\Rayhan\AppData\Local\Android\Sdk
 - Set up the Android SDK path at Environment variables (System Variable)
@@ -63,7 +63,7 @@ ANDROID_SDK_ROOT -> C:\Users\Rayhan\AppData\Local\Android\Sdk
 
 
 11) Install Gradle
-- Setup GRADLE_HOME at Environment variables (User Variable)
+- Set up GRADLE_HOME at Environment variables (User Variable)
 	GRADLE_HOME -> C:\Program Files\Gradle\gradle-6.3
 - Set the path of Gradle (System Variable)
 	PATH -> C:\Program Files\Gradle\gradle-6.3\bin
