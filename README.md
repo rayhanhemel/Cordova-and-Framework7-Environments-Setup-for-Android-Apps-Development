@@ -138,9 +138,9 @@ Please Note these commands but do not use these at early stages !!!!
 
 21) For Error "Application Error. Connection to server was unsuccessful (file://android_asset/www/index.html)"
 - add "<preference name="loadUrlTimeoutValue" value="120000" />"  at "confg.xml" file of "cordova" folder
-- Restart Android Studio and Emuletor
+- Restart Android Studio and Emulator
 - framework7 cordova run android
-- App will show at Emulator.
+- The app will show at Emulator.
 
 
 Thank You. 
